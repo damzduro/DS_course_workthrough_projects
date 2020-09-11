@@ -1,1 +1,1 @@
-# DS_projects
+# DS_course_workthrough_projects 
