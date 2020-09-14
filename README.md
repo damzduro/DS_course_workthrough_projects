@@ -1,1 +1,1 @@
-
+These notebooks are a selection of the Data Science projects i have worked on throughout various DS courses, showcasing some of the various modeling techniques i am familier with and some of my python data structure and coding.
